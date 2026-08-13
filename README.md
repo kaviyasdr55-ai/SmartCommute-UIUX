@@ -50,15 +50,26 @@ Splash → Login → Home → Route Search → Preferences → Route Comparison 
 
 ## 🖼️ UI Screens
 
-The project includes:
+### Splash Screen
+![Splash Screen](Design/01_Splash.png)
 
-1. Splash Screen
-2. Login Screen
-3. Home Dashboard
-4. Route Search
-5. Route Comparison
-6. Journey Tracking
-7. Journey Completed
+### Login Screen
+![Login Screen](Design/02_Login.png)
+
+### Home Dashboard
+![Home Dashboard](Design/03_Home.png)
+
+### Route Search
+![Route Search](Design/04_Route_Search.png)
+
+### Route Comparison
+![Route Comparison](Design/05_Route_Comparison.png)
+
+### Journey Tracking
+![Journey Tracking](Design/06_Journey_Tracking.png)
+
+### Journey Completed
+![Journey Completed](Design/07_Journey_Completed.png)
 
 ## 🔗 Figma Prototype
 [View SmartCommute Interactive Prototype]
