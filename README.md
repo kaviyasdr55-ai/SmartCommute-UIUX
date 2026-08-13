@@ -73,7 +73,7 @@ Splash → Login → Home → Route Search → Preferences → Route Comparison 
 
 ## 🔗 Figma Prototype
 [View SmartCommute Interactive Prototype]
-https://www.figma.com/proto/LwtDC41vKuDA80wHs9BcMy/SmartCommute?node-id=27-78&t=3FV9CK1uoWDNxyC6-1
+https://www.figma.com/proto/LwtDC41vKuDA80wHs9BcMy/SmartCommute?node-id=1-2&p=f&t=IrXxmCsyw2hJgCi9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
 
 ## 👩‍💻 Project Type
 
